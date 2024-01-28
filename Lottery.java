@@ -1,8 +1,5 @@
 class Lottery {
-    private static int[] frequencies;
-
     Lottery(int[] frequencies) {
-        Lottery.frequencies = frequencies;
     }
 
     public Lottery(Toy[] toys) {
