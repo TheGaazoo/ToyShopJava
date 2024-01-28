@@ -6,7 +6,7 @@ class Lottery {
     }
 
     public Lottery(Toy[] toys) {
-        //TODO Auto-generated constructor stub
+       
     }
 
     String getWinnerId() {
